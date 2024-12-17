@@ -41,3 +41,18 @@
 
 
 
+WEBPACK => Webpack is a powerful and widely used module bundler for JavaScript applications. It takes your application’s 
+           code (JavaScript, CSS, images, etc.) and packages it into a single file or multiple files that can be efficiently
+           served to the browser. It’s particularly useful for modern web development, where applications often have complex 
+           dependencies and need to be optimized for performance.
+
+POLYFILLS => are pieces of code (typically JavaScript) that provide modern functionality to older browsers that do not natively
+           support it. They "fill in the gaps" in browser capabilities by emulating newer features of JavaScript or web APIs in 
+           environments where those features are not available.
+
+BABEL => Transpiles modern JavaScript syntax (ES6+) into older versions (e.g., ES5) so that older browsers can understand it.
+         Converts new syntax, like let, const, arrow functions, and class, into equivalent older syntax. Does not add missing 
+         functionality (e.g., Promise, fetch)—only changes the syntax.
+
+
+
