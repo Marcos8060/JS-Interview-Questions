@@ -1,0 +1,27 @@
+1. What is Vuejs => Framework for building dynamic user interfaces for single page applications.
+2. What is SPAS => loads a single HTML page initially and dynamically updates the content as the user interacts with the application.
+3. Component => Building block of vuejs.
+4. Props => A way to share data between parent and child components.
+5. Virtual Dom => A light weight copy of the real DOM that records changes in UI then compares to the real DOM to ensure only the updated areas are effected.
+6. V-if => Has a high initial render cost as it involves adding or removing elements from the DOM while V-show has a high initial render cost when first displayed but toggling visibility is cheap as it only changes the CSS.
+7. Slots => In React its called Children and the permit content to be passed into them from the parent component.
+8. SSR => Rendering components on the server before sending HTML to the client.
+9. Features of Vue => Components
+                   => Vue Router
+                   => Directives (v-if,v-else,v-bind,v-model)
+                   => Vuex => state management
+                   => Reactive Data Binding ( view is automatically updated when data changes without having to manually manipulate the DOM)
+                   => Virtual DOM.
+
+10. Optimizaing Vue App => Lazy loading
+                        => Display on scroll
+                        => Memoization
+                        => Virtual DOM
+
+11. HOC => A pattern of reusing component logic. Its a function that takes a component as an argument and returns a new component with enhanced or modified behavior.
+12.  Vue Vs React 
+                  => Vue easy to learn while React steep curve
+                  => React is Library vue is Framework
+                  => React uses JSx while Vue uses traditional templates and scripts.
+                  => React Large community support while Vue growing community support
+                  
