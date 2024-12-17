@@ -1,0 +1,21 @@
+                                         JAVASCRIPT ORAL QUESTIONS
+
+
+1. Closures => This is the ability of an inner function to access the values and methods of the parent function.
+2. Hoisting => This is JavaScript default behavior of placing declarations at the top.
+3. Callback => This is a function that is called as a argument to another function and is executed once the outer function is executed.
+4. EVENT LOOP => Is a concept in JavaScript that allows for non-blocking asynchronous operations even though JavaScript is single-threaded.
+5. Promise => This is an object that represents the eventual completion or failure of an asynchronous operation.
+6. Async/Await => This is an ES8 method for perfoming asynchronous operations built on top of promises. Allows you to write asynchronous code that looks like synchronous code while maintaining non-blocking behavior.
+7. Arrow Functions => This is an ES6 method of writing cleaner functions instead of the traditional way of writing functions.
+8. Destructuring => This is an ES6 method of accessing values of an array or properties of an object by assigning them to a variable in a more concise way.
+9. Spread Operator => An ES6 method of spreading values of an array or properties of an object into a new array or object.
+10. Rest Operator => An ES6 method that allows you to collect multiple elements or properties into a single variable.
+11. PROTOTYPES => A mechanism by which objects inherit properties and methods from other objects.
+12. This Keyword => Referes to the current execution context within a function which depends on how and where its called.
+13. Classes => A blue print for creating objects with shared properties and methods.
+14. Modules => A way to organize and reuse code by splitting it into separate files.
+15. Map/Filter => High order functions that take a callback function as an argument and used to manipulate arrays.
+16. Reduce => Array function that applies a callback function to each element in the array accumulating a single result.
+17. SetTimeout => Executed after a specified number of seconds.
+18. SetInterval => Executed in intervals of the specified number of seconds.
