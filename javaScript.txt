@@ -19,3 +19,25 @@
 16. Reduce => Array function that applies a callback function to each element in the array accumulating a single result.
 17. SetTimeout => Executed after a specified number of seconds.
 18. SetInterval => Executed in intervals of the specified number of seconds.
+
+19. Cookies:
+            stored on client and sent with every http request
+            storage upto 4kb
+            store sesntive data
+            Accessed by both JavaScript and Server
+
+    Sessions:
+            stores data in the server
+            Lasts until session expires or when manually deleted
+            Server side so more secure and less prone to client side attacks
+            No fixed limit on storage.
+    
+    Local Storage:
+            Stores data in client side in browser.
+            Storage of 5mb to 10mb
+            Lasts even when session ends unless explitly deleted
+            Not secure for sensitive data.
+
+
+
+
